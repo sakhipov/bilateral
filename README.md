@@ -1,10 +1,11 @@
 Results
+
 Image input:
 
 ![GitHub Logo](/lena.bmp)
 
 Image output:
 
-Output image
+![GitHub Logo](/result.bmp)
 
-CPU time: 490ms GPU time: 26.6293ms
+CPU time: 472ms GPU time: 22.6814ms
