@@ -1,0 +1,10 @@
+Results
+Image input:
+
+Input image
+
+Image output:
+
+Output image
+
+CPU time: 490ms GPU time: 26.6293ms
