@@ -1,7 +1,7 @@
 Results
 Image input:
 
-Input image
+![GitHub Logo](/lena.bmp)
 
 Image output:
 
